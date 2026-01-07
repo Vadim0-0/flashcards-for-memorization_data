@@ -14,4 +14,10 @@
     "name": "Базовые слова",
     "path": "/data/words/themes/basic.json"
   }
+  ,
+  {
+    "id": "cooking",
+    "name": "Готовка",
+    "path": "/data/words/themes/basic.json"
+  }
 ]
