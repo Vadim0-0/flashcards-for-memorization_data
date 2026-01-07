@@ -1,0 +1,17 @@
+[
+  {
+    "id": "all",
+    "name": "Все",
+    "path": null
+  },
+  {
+    "id": "travel",
+    "name": "Путешествие",
+    "path": "/data/words/themes/travel.json"
+  },
+  {
+    "id": "basic",
+    "name": "Базовые слова",
+    "path": "/data/words/themes/basic.json"
+  }
+]
