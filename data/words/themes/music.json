@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "russian": "тот же самый, одинаковый",
+    "english": ["same"]
+  },
+  {
+    "id": 2,
+    "russian": "моя любимая песня (slang)",
+    "english": ["my jam"]
+  },
+  {
+    "id": 3,
+    "russian": "рекомендовать",
+    "english": ["recommend"]
+  },
+  {
+    "id": 4,
+    "russian": "выступать",
+    "english": ["perform"]
+  },
+  {
+    "id": 5,
+    "russian": "музыкальная группа",
+    "english": ["band"]
+  },
+  {
+    "id": 6,
+    "russian": "певец, певица",
+    "english": ["singer"]
+  },
+  {
+    "id": 7,
+    "russian": "плыть по течению; принимать вещи такими, какие они есть",
+    "english": ["go with the flow"]
+  },
+  {
+    "id": 8,
+    "russian": "жанр",
+    "english": ["genre"]
+  },
+  {
+    "id": 9,
+    "russian": "посещать, присутствовать",
+    "english": ["attend"]
+  }
+]
+

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "russian": "счастливый",
+    "english": ["happy"]
+  },
+  {
+    "id": 2,
+    "russian": "Очень довольный, очень счастливый",
+    "english": ["overjoyed"]
+  },
+  {
+    "id": 3,
+    "russian": "грустный, расстроенный",
+    "english": ["sad", "upset"]
+  },
+  {
+    "id": 4,
+    "russian": "Гордящийся кем-то, чем-то",
+    "english": ["proud of"]
+  },
+  {
+    "id": 5,
+    "russian": "Удивленный, в шоке",
+    "english": ["surprised", "shocked"]
+  },
+  {
+    "id": 6,
+    "russian": "В предвкушении, взволнованный (в положительном ключе)",
+    "english": ["excited", "thrilled"]
+  },
+  {
+    "id": 7,
+    "russian": "Спокойный",
+    "english": ["calm", "relaxed"]
+  },
+  {
+    "id": 8,
+    "russian": "сердитый, злой",
+    "english": ["angry", "mad"]
+  },
+  {
+    "id": 9,
+    "russian": "уставший",
+    "english": ["tired"]
+  },
+  {
+    "id": 10,
+    "russian": "смущенный, чувствующий стыд",
+    "english": ["embarrassed"]
+  },
+  {
+    "id": 11,
+    "russian": "скучающий, заскучавший",
+    "english": ["bored"]
+  },
+  {
+    "id": 12,
+    "russian": "испуганный, напуганный",
+    "english": ["scared"]
+  },
+  {
+    "id": 13,
+    "russian": "нервный, тревожный",
+    "english": ["nervous", "anxious"]
+  },
+  {
+    "id": 14,
+    "russian": "смущённый; озадаченный; поставленный в тупик",
+    "english": ["confused"]
+  },
+  {
+    "id": 15,
+    "russian": "ревнующий, завидующий",
+    "english": ["jealous"]
+  }
+]
+

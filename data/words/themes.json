@@ -5,23 +5,33 @@
     "path": null
   },
   {
+    "id": "basic",
+    "name": "Basic",
+    "path": "/data/words/themes/basic.json"
+  },
+  {
     "id": "at-the-restaurant",
     "name": "At the restaurant",
     "path": "/data/words/themes/at-the-restaurant.json"
   },
   {
-    "id": "сhristmas-at-hogwarts",
-    "name": "Christmas at Hogwarts",
-    "path": "/data/words/themes/сhristmas-at-hogwarts.json"
+    "id": "at-the-airport",
+    "name": "At The Airport & On a Plane",
+    "path": "/data/words/themes/at-the-airport.json"
   },
   {
-    "id": "basic",
-    "name": "Базовые слова",
-    "path": "/data/words/themes/basic.json"
+    "id": "emotions-and-feelings",
+    "name": "Emotions And Feelings",
+    "path": "/data/words/themes/emotions-and-feelings.json"
   },
   {
-    "id": "cooking",
-    "name": "Готовка",
-    "path": "/data/words/themes/basic.json"
+    "id": "music",
+    "name": "Music",
+    "path": "/data/words/themes/music.json"
+  },
+  {
+    "id": "at-the-hotel",
+    "name": "At The Hotel",
+    "path": "/data/words/themes/at-the-hotel.json"
   }
 ]
