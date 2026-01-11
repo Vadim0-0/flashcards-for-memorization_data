@@ -1,7 +1,10 @@
 [
   {
     "id": "all",
-    "name": "Все",
+    "name": {
+      "ru": "Все",
+      "en": "All"
+    },
     "path": null
   },
   {
