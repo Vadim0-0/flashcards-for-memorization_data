@@ -36,5 +36,20 @@
     "id": "at-the-hotel",
     "name": "At The Hotel",
     "path": "/data/words/themes/at-the-hotel.json"
+  },
+  {
+    "id": "сhristmas-decorations",
+    "name": "Christmas Decorations",
+    "path": "/data/words/themes/сhristmas-decorations.json"
+  },
+  {
+    "id": "dreams-and-goals",
+    "name": "Dreams and Goals",
+    "path": "/data/words/themes/dreams-and-goal.json"
+  },
+  {
+    "id": "people-&-personality",
+    "name": "People & Personality",
+    "path": "/data/words/themes/people&personality.json"
   }
-]
+] 
