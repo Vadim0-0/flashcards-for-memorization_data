@@ -1,123 +1,26 @@
 [
-  {
-    "id": 1,
-    "russian": "бронирование, предварительный заказ",
-    "english": ["reservation"]
-  },
-  {
-    "id": 2,
-    "russian": "бронировать онлайн",
-    "english": ["to book online"]
-  },
-  {
-    "id": 3,
-    "russian": "подтверждение о бронировании",
-    "english": ["a (booking) confirmation"]
-  },
-  {
-    "id": 4,
-    "russian": "отменять бронирование",
-    "english": ["to turn down a booking", "to cancel a reservation"]
-  },
-  {
-    "id": 5,
-    "russian": "свободный (номер), имеющийся в наличии",
-    "english": ["available"]
-  },
-  {
-    "id": 6,
-    "russian": "полностью забронированный",
-    "english": ["fully booked"]
-  },
-  {
-    "id": 7,
-    "russian": "стойка регистрации",
-    "english": ["reception", "a front desk"]
-  },
-  {
-    "id": 8,
-    "russian": "заехать/выехать (в отель)",
-    "english": ["to check in", "check out"]
-  },
-  {
-    "id": 9,
-    "russian": "парковщик автомобилей",
-    "english": ["a valet"]
-  },
-  {
-    "id": 10,
-    "russian": "швейцар",
-    "english": ["a doorman"]
-  },
-  {
-    "id": 11,
-    "russian": "администратор",
-    "english": ["a receptionist", "a front desk clerk"]
-  },
-  {
-    "id": 12,
-    "russian": "посыльный",
-    "english": ["a bellboy", "a bellhop"]
-  },
-  {
-    "id": 13,
-    "russian": "горничная",
-    "english": ["a room maid", "a chambermaid", "a room attendant"]
-  },
-  {
-    "id": 14,
-    "russian": "консьерж, менеджер по работе с гостями",
-    "english": ["a concierge", "a guest relations manager", "a guest relations officer"]
-  },
-  {
-    "id": 15,
-    "russian": "вестибюль, холл",
-    "english": ["a lobby"]
-  },
-  {
-    "id": 16,
-    "russian": "комната на одного",
-    "english": ["single room"]
-  },
-  {
-    "id": 17,
-    "russian": "двухместный номер с одной двуспальной кроватью",
-    "english": ["double room"]
-  },
-  {
-    "id": 18,
-    "russian": "номер с двумя кроватями",
-    "english": ["twin room"]
-  },
-  {
-    "id": 19,
-    "russian": "номер люкс",
-    "english": ["suite"]
-  },
-  {
-    "id": 20,
-    "russian": "обслуживание номеров (еда в номер; а также вызов парикмахера или массажиста, которые зачастую предлагаются в высококлассных отелях)",
-    "english": ["room service"]
-  },
-  {
-    "id": 21,
-    "russian": "заказ еды в номер",
-    "english": ["in-room dining service"]
-  },
-  {
-    "id": 22,
-    "russian": "оплата за номер",
-    "english": ["room charge"]
-  },
-  {
-    "id": 23,
-    "russian": "удобства",
-    "english": ["amenities", "facilities"]
-  },
-  {
-    "id": 24,
-    "russian": "звонок-напоминание (обычно по просьбе постояльца гостиницы; вместо будильника)",
-    "english": ["a wake-up call"]
-  }
+  "бронирование, предварительный заказ | reservation",
+  "бронировать онлайн | to book online",
+  "подтверждение о бронировании | a (booking) confirmation",
+  "отменять бронирование | to turn down a booking, to cancel a reservation",
+  "свободный (номер), имеющийся в наличии | available",
+  "полностью забронированный | fully booked",
+  "стойка регистрации | reception, a front desk",
+  "заехать/выехать (в отель) | to check in, check out",
+  "парковщик автомобилей | a valet",
+  "швейцар | a doorman",
+  "администратор | a receptionist, a front desk clerk",
+  "посыльный | a bellboy, a bellhop",
+  "горничная | a room maid, a chambermaid, a room attendant",
+  "консьерж, менеджер по работе с гостями | a concierge, a guest relations manager, a guest relations officer",
+  "вестибюль, холл | a lobby",
+  "комната на одного | single room",
+  "двухместный номер с одной двуспальной кроватью | double room",
+  "номер с двумя кроватями | twin room",
+  "номер люкс | suite",
+  "обслуживание номеров (еда в номер; а также вызов парикмахера или массажиста, которые зачастую предлагаются в высококлассных отелях) | room service",
+  "заказ еды в номер | in-room dining service",
+  "оплата за номер | room charge",
+  "удобства | amenities, facilities",
+  "звонок-напоминание (обычно по просьбе постояльца гостиницы; вместо будильника) | a wake-up call"
 ]
-

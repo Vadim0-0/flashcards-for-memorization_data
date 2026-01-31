@@ -1,122 +1,26 @@
 [
-  {
-    "id": 1,
-    "russian": "привет",
-    "english": ["hello", "hi"]
-  },
-  {
-    "id": 2,
-    "russian": "спасибо",
-    "english": ["thank you", "thanks"]
-  },
-  {
-    "id": 3,
-    "russian": "пожалуйста",
-    "english": ["please", "you're welcome"]
-  },
-  {
-    "id": 4,
-    "russian": "дом",
-    "english": ["house", "home"]
-  },
-  {
-    "id": 5,
-    "russian": "книга",
-    "english": ["book"]
-  },
-  {
-    "id": 6,
-    "russian": "примерять (одежду, обувь)",
-    "english": ["try on"]
-  },
-  {
-    "id": 7,
-    "russian": "оставлять чаевые",
-    "english": ["leave tips"]
-  },
-  {
-    "id": 8,
-    "russian": "Женщины и мужчины (мн число)",
-    "english": ["women", "men"]
-  },
-  {
-    "id": 9,
-    "russian": "приятного аппетита",
-    "english": ["enjoy your meal"]
-  },
-  {
-    "id": 10,
-    "russian": "приносить",
-    "english": ["bring"]
-  },
-  {
-    "id": 11,
-    "russian": "Не могли бы вы",
-    "english": ["could you"]
-  },
-  {
-    "id": 12,
-    "russian": "я бы хотел",
-    "english": ["I would like to"]
-  },
-  {
-    "id": 13,
-    "russian": "наличными/картой",
-    "english": ["in cash", "by card"]
-  },
-  {
-    "id": 14,
-    "russian": "чек, квитанция",
-    "english": ["receipt"]
-  },
-  {
-    "id": 15,
-    "russian": "отдельно, раздельно",
-    "english": ["separately"]
-  },
-  {
-    "id": 16,
-    "russian": "собираться, намереваться что-то сделать /еще значение «замышлять»",
-    "english": ["be up to"]
-  },
-  {
-    "id": 17,
-    "russian": "национальная кухня",
-    "english": ["cuisine"]
-  },
-  {
-    "id": 18,
-    "russian": "жалоба",
-    "english": ["complaint"]
-  },
-  {
-    "id": 19,
-    "russian": "столовые приборы",
-    "english": ["silverware"]
-  },
-  {
-    "id": 20,
-    "russian": "вздремнуть, немного поспать",
-    "english": ["take a nap"]
-  },
-  {
-    "id": 21,
-    "russian": "полный, целый, весь",
-    "english": ["entire"]
-  },
-  {
-    "id": 22,
-    "russian": "впечатление, представление",
-    "english": ["impression"]
-  },
-  {
-    "id": 23,
-    "russian": "ходить (гулять)",
-    "english": ["walk"]
-  },
-  {
-    "id": 24,
-    "russian": "бросать, кидать",
-    "english": ["throw"]
-  }
+  "привет | hello, hi",
+  "спасибо | thank you, thanks",
+  "пожалуйста | please, you're welcome",
+  "дом | house, home",
+  "книга | book",
+  "примерять (одежду, обувь) | try on",
+  "оставлять чаевые | leave tips",
+  "Женщины и мужчины (мн число) | women, men",
+  "приятного аппетита | enjoy your meal",
+  "приносить | bring",
+  "Не могли бы вы | could you",
+  "я бы хотел | I would like to",
+  "наличными/картой | in cash, by card",
+  "чек, квитанция | receipt",
+  "отдельно, раздельно | separately",
+  "собираться, намереваться что-то сделать /еще значение «замышлять» | be up to",
+  "национальная кухня | cuisine",
+  "жалоба | complaint",
+  "столовые приборы | silverware",
+  "вздремнуть, немного поспать | take a nap",
+  "полный, целый, весь | entire",
+  "впечатление, представление | impression",
+  "ходить (гулять) | walk",
+  "бросать, кидать | throw"
 ]

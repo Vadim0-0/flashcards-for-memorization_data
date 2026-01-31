@@ -1,118 +1,25 @@
 [
-  {
-    "id": 1,
-    "russian": "посадка на самолет, на борт",
-    "english": ["boarding"]
-  },
-  {
-    "id": 2,
-    "russian": "зона получения багажа",
-    "english": ["baggage claim"]
-  },
-  {
-    "id": 3,
-    "russian": "зал ожидания (перед выходом на посадку)",
-    "english": ["departure lounge"]
-  },
-  {
-    "id": 4,
-    "russian": "выход на посадку",
-    "english": ["gate"]
-  },
-  {
-    "id": 5,
-    "russian": "отправление, отъезд",
-    "english": ["departure"]
-  },
-  {
-    "id": 6,
-    "russian": "прибытие, приезд",
-    "english": ["arrival"]
-  },
-  {
-    "id": 7,
-    "russian": "посадка, приземление самолета",
-    "english": ["landing"]
-  },
-  {
-    "id": 8,
-    "russian": "стойка регистрации пассажиров (в аэропорту)",
-    "english": ["check-in desk"]
-  },
-  {
-    "id": 9,
-    "russian": "чемодан",
-    "english": ["suitcase"]
-  },
-  {
-    "id": 10,
-    "russian": "ручная кладь",
-    "english": ["carry-on bag"]
-  },
-  {
-    "id": 11,
-    "russian": "место у прохода в самолете",
-    "english": ["aisle seat"]
-  },
-  {
-    "id": 12,
-    "russian": "посадочный билет",
-    "english": ["boarding pass"]
-  },
-  {
-    "id": 13,
-    "russian": "взлетать",
-    "english": ["take off"]
-  },
-  {
-    "id": 14,
-    "russian": "отделение для ручной клади (над сидениями)",
-    "english": ["overhead compartment", "overhead locker"]
-  },
-  {
-    "id": 15,
-    "russian": "откидной столик",
-    "english": ["tray table"]
-  },
-  {
-    "id": 16,
-    "russian": "пристегнуть ремень безопасности",
-    "english": ["to fasten the seatbelt"]
-  },
-  {
-    "id": 17,
-    "russian": "кислородная маска",
-    "english": ["oxygen mask"]
-  },
-  {
-    "id": 18,
-    "russian": "спасательный жилет",
-    "english": ["life vest"]
-  },
-  {
-    "id": 19,
-    "russian": "бортпроводник",
-    "english": ["flight attendant"]
-  },
-  {
-    "id": 20,
-    "russian": "пилот, летчик",
-    "english": ["pilot"]
-  },
-  {
-    "id": 21,
-    "russian": "таможенный контроль",
-    "english": ["customs"]
-  },
-  {
-    "id": 22,
-    "russian": "задержан (рейс)",
-    "english": ["delayed"]
-  },
-  {
-    "id": 23,
-    "russian": "отменен (рейс)",
-    "english": ["cancelled"]
-  }
+  "посадка на самолет, на борт | boarding",
+  "зона получения багажа | baggage claim",
+  "зал ожидания (перед выходом на посадку) | departure lounge",
+  "выход на посадку | gate",
+  "отправление, отъезд | departure",
+  "прибытие, приезд | arrival",
+  "посадка, приземление самолета | landing",
+  "стойка регистрации пассажиров (в аэропорту) | check-in desk",
+  "чемодан | suitcase",
+  "ручная кладь | carry-on bag",
+  "место у прохода в самолете | aisle seat",
+  "посадочный билет | boarding pass",
+  "взлетать | take off",
+  "отделение для ручной клади (над сидениями) | overhead compartment, overhead locker",
+  "откидной столик | tray table",
+  "пристегнуть ремень безопасности | to fasten the seatbelt",
+  "кислородная маска | oxygen mask",
+  "спасательный жилет | life vest",
+  "бортпроводник | flight attendant",
+  "пилот, летчик | pilot",
+  "таможенный контроль | customs",
+  "задержан (рейс) | delayed",
+  "отменен (рейс) | cancelled"
 ]
-

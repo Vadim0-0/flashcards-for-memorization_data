@@ -1,147 +1,31 @@
 [
-  {
-    "id": 1,
-    "russian": "официант/официантка",
-    "english": ["waiter/waitress"]
-  },
-  {
-    "id": 2,
-    "russian": "шеф-повар, повар",
-    "english": ["chef", "cook"]
-  },
-  {
-    "id": 3,
-    "russian": "администратор ресторана, управляющий рестораном",
-    "english": ["restaurant manager"]
-  },
-  {
-    "id": 4,
-    "russian": "зубочистки",
-    "english": ["toothpicks"]
-  },
-  {
-    "id": 5,
-    "russian": "вилка",
-    "english": ["fork"]
-  },
-  {
-    "id": 6,
-    "russian": "нож",
-    "english": ["knife"]
-  },
-  {
-    "id": 7,
-    "russian": "ложка",
-    "english": ["spoon"]
-  },
-  {
-    "id": 8,
-    "russian": "столовые приборы",
-    "english": ["cutlery"]
-  },
-  {
-    "id": 9,
-    "russian": "уборная, туалет",
-    "english": ["loo", "restroom", "toilet"]
-  },
-  {
-    "id": 10,
-    "russian": "счёт в ресторане",
-    "english": ["bill", "check"]
-  },
-  {
-    "id": 11,
-    "russian": "соль и перец",
-    "english": ["salt and pepper"]
-  },
-  {
-    "id": 12,
-    "russian": "десерт, сладкое блюдо",
-    "english": ["dessert"]
-  },
-  {
-    "id": 13,
-    "russian": "салфетки тканевые",
-    "english": ["napkins"]
-  },
-  {
-    "id": 14,
-    "russian": "еда на вынос",
-    "english": ["takeout"]
-  },
-  {
-    "id": 15,
-    "russian": "первые блюда, холодные закуски",
-    "english": ["starters"]
-  },
-  {
-    "id": 16,
-    "russian": "основное блюдо, горячее",
-    "english": ["main dish", "main course"]
-  },
-  {
-    "id": 17,
-    "russian": "тарелка",
-    "english": ["plate"]
-  },
-  {
-    "id": 18,
-    "russian": "остатки еды",
-    "english": ["leftovers"]
-  },
-  {
-    "id": 19,
-    "russian": "заказывать, заказ",
-    "english": ["order"]
-  },
-  {
-    "id": 20,
-    "russian": "услуга (обслуживание)",
-    "english": ["service"]
-  },
-  {
-    "id": 21,
-    "russian": "иметь аллергию на",
-    "english": ["be allergic to"]
-  },
-  {
-    "id": 22,
-    "russian": "заканчиваться (о каких-либо припасах)",
-    "english": ["to run out of something"]
-  },
-  {
-    "id": 23,
-    "russian": "мясная нарезка",
-    "english": ["charcuterie"]
-  },
-  {
-    "id": 24,
-    "russian": "чаевые, давать чаевые",
-    "english": ["tip"]
-  },
-  {
-    "id": 25,
-    "russian": "напиток",
-    "english": ["beverage", "drink"]
-  },
-  {
-    "id": 26,
-    "russian": "жаловаться",
-    "english": ["complain"]
-  },
-  {
-    "id": 27,
-    "russian": "национальная кухня",
-    "english": ["cuisine"]
-  },
-  {
-    "id": 28,
-    "russian": "приправа, специи",
-    "english": ["seasoning"]
-  },
-  {
-    "id": 29,
-    "russian": "испытывающий жажду",
-    "english": ["thirsty"]
-  }
+  "официант/официантка | waiter/waitress",
+  "шеф-повар, повар | chef, cook",
+  "администратор ресторана, управляющий рестораном | restaurant manager",
+  "зубочистки | toothpicks",
+  "вилка | fork",
+  "нож | knife",
+  "ложка | spoon",
+  "столовые приборы | cutlery",
+  "уборная, туалет | loo, restroom, toilet",
+  "счёт в ресторане | bill, check",
+  "соль и перец | salt and pepper",
+  "десерт, сладкое блюдо | dessert",
+  "салфетки тканевые | napkins",
+  "еда на вынос | takeout",
+  "первые блюда, холодные закуски | starters",
+  "основное блюдо, горячее | main dish, main course",
+  "тарелка | plate",
+  "остатки еды | leftovers",
+  "заказывать, заказ | order",
+  "услуга (обслуживание) | service",
+  "иметь аллергию на | be allergic to",
+  "заканчиваться (о каких-либо припасах) | to run out of something",
+  "мясная нарезка | charcuterie",
+  "чаевые, давать чаевые | tip",
+  "напиток | beverage, drink",
+  "жаловаться | complain",
+  "национальная кухня | cuisine",
+  "приправа, специи | seasoning",
+  "испытывающий жажду | thirsty"
 ]
